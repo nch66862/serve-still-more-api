@@ -1,7 +1,7 @@
 {
   "members": [
     {
-      "firstName": "Jeremy Boy",
+      "firstName": "Jeremy",
       "lastName": "Jones",
       "email": "",
       "groupId": 1,
@@ -17,7 +17,7 @@
       "id": 1
     },
     {
-      "firstName": "Jeremy",
+      "firstName": "Alex",
       "lastName": "Jones",
       "email": "",
       "groupId": 1,
@@ -33,9 +33,9 @@
       "id": 2
     },
     {
-      "firstName": "Boy",
+      "firstName": "Ashli",
       "lastName": "Jones",
-      "email": "",
+      "email": "myaemail@me.com",
       "groupId": 1,
       "phone": "(270) 543-3086",
       "address": "435 Main Street",
@@ -49,39 +49,7 @@
       "id": 3
     },
     {
-      "firstName": "Nick Boy",
-      "lastName": "Jones",
-      "email": "",
-      "groupId": 1,
-      "phone": "(270) 543-3086",
-      "address": "435 Main Street",
-      "city": "Nashville",
-      "state": "TN",
-      "photo": "",
-      "callTime": "",
-      "canCall": true,
-      "familyId": 0,
-      "primaryMember": false,
-      "id": 4
-    },
-    {
-      "firstName": "Nick Nick",
-      "lastName": "Jones",
-      "email": "",
-      "groupId": 1,
-      "phone": "(270) 543-3086",
-      "address": "435 Main Street",
-      "city": "Nashville",
-      "state": "TN",
-      "photo": "",
-      "callTime": "",
-      "canCall": true,
-      "familyId": 0,
-      "primaryMember": false,
-      "id": 5
-    },
-    {
-      "firstName": "Boy Boy",
+      "firstName": "Bryan",
       "lastName": "Jones",
       "email": "",
       "groupId": 1,
@@ -97,23 +65,184 @@
       "id": 6
     },
     {
-      "firstName": "Nick",
-      "lastName": "Jones",
-      "email": "",
+      "firstName": "Calvin",
+      "lastName": "Carver",
+      "email": "nickcarver@amail.com",
       "groupId": 1,
-      "phone": "(270) 543-3086",
-      "address": "435 Main Street",
-      "city": "Nashville",
-      "state": "TN",
+      "phone": "2705433086",
+      "address": "15 carver lane",
+      "city": "drakesboro",
+      "state": "KY",
       "photo": "",
       "callTime": "",
       "canCall": true,
       "familyId": 0,
       "primaryMember": false,
-      "id": 7
+      "id": 8
+    },
+    {
+      "firstName": "Cheo",
+      "lastName": "Carver",
+      "email": "",
+      "groupId": 1,
+      "phone": "2705433086",
+      "address": "15 carver lane",
+      "city": "drakesboro",
+      "state": "KY",
+      "photo": "",
+      "callTime": "",
+      "canCall": true,
+      "familyId": 0,
+      "primaryMember": false,
+      "id": 9
+    },
+    {
+      "firstName": "Scott",
+      "lastName": "Silver",
+      "email": "",
+      "groupId": 1,
+      "phone": "2705433086",
+      "address": "15 carver lane",
+      "city": "drakesboro",
+      "state": "KY",
+      "photo": "",
+      "callTime": "",
+      "canCall": true,
+      "familyId": 0,
+      "primaryMember": false,
+      "id": 10
+    },
+    {
+      "firstName": "Nick",
+      "lastName": "Carver",
+      "email": "",
+      "groupId": 2,
+      "phone": "2705433086",
+      "address": "15 carver lane",
+      "city": "drakesboro",
+      "state": "KY",
+      "photo": "",
+      "callTime": "",
+      "canCall": true,
+      "familyId": 0,
+      "primaryMember": false,
+      "id": 11
     }
   ],
-  "history": [],
+  "history": [
+    {
+      "note": "A note!",
+      "userId": 1,
+      "memberId": 1,
+      "date": "2020-04-24T03:52:34.610Z",
+      "id": 1
+    },
+    {
+      "note": "Another note",
+      "userId": 2,
+      "memberId": 1,
+      "date": "2020-03-24T03:53:08.335Z",
+      "id": 2
+    },
+    {
+      "note": "can make a note about Jeremy",
+      "userId": 3,
+      "memberId": 1,
+      "date": "2020-02-24T04:26:51.419Z",
+      "id": 3
+    },
+    {
+      "note": "alriiiight",
+      "userId": 4,
+      "memberId": 1,
+      "date": "2020-01-24T04:27:59.120Z",
+      "id": 4
+    },
+    {
+      "note": "things and stuff",
+      "userId": 5,
+      "memberId": 1,
+      "date": "2020-12-24T04:43:20.198Z",
+      "id": 5
+    },
+    {
+      "note": "Ughhhh what?",
+      "userId": 6,
+      "memberId": 2,
+      "date": "2020-11-24T04:43:47.085Z",
+      "id": 6
+    },
+    {
+      "note": "yep",
+      "userId": 7,
+      "memberId": 2,
+      "date": "2020-10-24T04:44:03.308Z",
+      "id": 7
+    },
+    {
+      "note": "we talked about school and kids",
+      "userId": 8,
+      "memberId": 3,
+      "date": "2020-09-24T15:02:36.850Z",
+      "id": 8
+    },
+    {
+      "note": "A note!",
+      "userId": 9,
+      "memberId": 1,
+      "date": "2020-08-24T03:52:34.610Z",
+      "id": 9
+    },
+    {
+      "note": "Another note",
+      "userId": 10,
+      "memberId": 1,
+      "date": "2020-07-24T03:53:08.335Z",
+      "id": 10
+    },
+    {
+      "note": "can make a note about Jeremy",
+      "userId": 11,
+      "memberId": 1,
+      "date": "2020-06-24T04:26:51.419Z",
+      "id": 11
+    },
+    {
+      "note": "alriiiight",
+      "userId": 1,
+      "memberId": 1,
+      "date": "2020-05-24T04:27:59.120Z",
+      "id": 12
+    },
+    {
+      "note": "things and stuff",
+      "userId": 2,
+      "memberId": 1,
+      "date": "2020-04-24T04:43:20.198Z",
+      "id": 13
+    },
+    {
+      "note": "Ughhhh what?",
+      "userId": 3,
+      "memberId": 2,
+      "date": "2020-01-24T04:43:47.085Z",
+      "id": 14
+    },
+    {
+      "note": "yep",
+      "userId": 4,
+      "memberId": 2,
+      "date": "2020-02-24T04:44:03.308Z",
+      "id": 15
+    },
+    {
+      "note": "we talked about school and kids",
+      "userId": 5,
+      "memberId": 3,
+      "date": "2020-03-24T15:02:36.850Z",
+      "id": 16
+    }
+  ],
   "roles": [
     {
       "name": "Elder",
@@ -146,7 +275,7 @@
     {
       "firstName": "Grant",
       "lastName": "Carver",
-      "email": "nickcarver@amail.com",
+      "email": "grantcarver@amail.com",
       "password": "pass",
       "groupId": 1,
       "roleId": 2,
@@ -164,7 +293,7 @@
     {
       "firstName": "Mark",
       "lastName": "Carver",
-      "email": "nickcarver@amail.com",
+      "email": "markcarver@amail.com",
       "password": "pass",
       "groupId": 1,
       "roleId": 2,
@@ -182,7 +311,7 @@
     {
       "firstName": "Sawyer",
       "lastName": "Carver",
-      "email": "nickcarver@amail.com",
+      "email": "sawyercarver@amail.com",
       "password": "pass",
       "groupId": 1,
       "roleId": 2,
@@ -200,7 +329,7 @@
     {
       "firstName": "Frank",
       "lastName": "Carver",
-      "email": "nickcarver@amail.com",
+      "email": "frankcarver@amail.com",
       "password": "pass",
       "groupId": 2,
       "roleId": 1,
@@ -218,7 +347,7 @@
     {
       "firstName": "Lawrence",
       "lastName": "Carver",
-      "email": "nickcarver@amail.com",
+      "email": "lawrencecarver@amail.com",
       "password": "pass",
       "groupId": 2,
       "roleId": 2,
@@ -236,7 +365,7 @@
     {
       "firstName": "Darrel",
       "lastName": "Carver",
-      "email": "nickcarver@amail.com",
+      "email": "darrelcarver@amail.com",
       "password": "pass",
       "groupId": 2,
       "roleId": 2,
@@ -254,7 +383,7 @@
     {
       "firstName": "Hunter",
       "lastName": "Carver",
-      "email": "nickcarver@amail.com",
+      "email": "huntercarver@amail.com",
       "password": "pass",
       "groupId": 2,
       "roleId": 2,
@@ -272,7 +401,7 @@
     {
       "firstName": "Caleb",
       "lastName": "Carver",
-      "email": "nickcarver@amail.com",
+      "email": "calebcarver@amail.com",
       "password": "pass",
       "groupId": 2,
       "roleId": 2,
@@ -288,11 +417,11 @@
       "id": 9
     },
     {
-      "firstName": "Chris",
+      "firstName": "Cheo",
       "lastName": "Carver",
-      "email": "nickcarver@amail.com",
+      "email": "cheocarver@amail.com",
       "password": "pass",
-      "groupId": 1,
+      "groupId": 2,
       "roleId": 2,
       "phone": "(270) 543-3086",
       "address": "435 Main Street",
@@ -310,7 +439,7 @@
       "lastName": "Carver",
       "email": "his@email.com",
       "password": "no",
-      "groupId": 1,
+      "groupId": 2,
       "roleId": 2,
       "phone": "(270) 543-3086",
       "address": "435 Main Street",
@@ -380,6 +509,34 @@
       "userId": 1,
       "date": "2021-03-18T21:11:44.498Z",
       "id": 8
+    },
+    {
+      "deaconNews": "",
+      "memberNews": "",
+      "userId": 1,
+      "date": "2021-03-24T14:56:21.863Z",
+      "id": 9
+    },
+    {
+      "deaconNews": "this is a message to the deacons",
+      "memberNews": "and to the members",
+      "userId": 1,
+      "date": "2021-03-24T14:58:53.218Z",
+      "id": 10
+    },
+    {
+      "deaconNews": "a new one",
+      "memberNews": "..",
+      "userId": 1,
+      "date": "2021-03-24T14:59:26.270Z",
+      "id": 11
+    },
+    {
+      "deaconNews": "Its a new week! Be great out there!!",
+      "memberNews": "Party at my house on saturday",
+      "userId": 1,
+      "date": "2021-03-24T15:54:25.533Z",
+      "id": 12
     }
   ],
   "groups": [
@@ -390,22 +547,6 @@
     {
       "name": "2",
       "id": 2
-    },
-    {
-      "name": "3",
-      "id": 3
-    },
-    {
-      "name": "4",
-      "id": 4
-    },
-    {
-      "name": "5",
-      "id": 5
-    },
-    {
-      "name": "6",
-      "id": 6
     }
   ]
 }
