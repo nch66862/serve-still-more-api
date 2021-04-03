@@ -241,7 +241,43 @@
       "id": 11
     }
   ],
-  "history": [],
+  "history": [
+    {
+      "note": "Kyle just had a baby!",
+      "userId": 7,
+      "memberId": 18,
+      "date": "2021-01-03T00:04:17.559Z",
+      "id": 1
+    },
+    {
+      "note": "Melissa is moving to a new place that is closer to her children.",
+      "userId": 7,
+      "memberId": 17,
+      "date": "2021-01-03T00:07:15.933Z",
+      "id": 2
+    },
+    {
+      "note": "Melissa is loving her new job but thinking about moving.",
+      "userId": 8,
+      "memberId": 17,
+      "date": "2020-12-03T00:07:15.933Z",
+      "id": 3
+    },
+    {
+      "note": "David got married last week and is about to return from his honeymoon.",
+      "userId": 7,
+      "memberId": 9,
+      "date": "2021-01-03T00:07:58.335Z",
+      "id": 4
+    },
+    {
+      "note": "He is loving married life. Already planning their next vacation.",
+      "userId": 8,
+      "memberId": 9,
+      "date": "2021-02-03T00:07:58.335Z",
+      "id": 5
+    }
+  ],
   "roles": [
     {
       "name": "Elder",
@@ -387,6 +423,13 @@
       "userId": 1,
       "date": "2021-04-01T20:25:11.134Z",
       "id": 15
+    },
+    {
+      "deaconNews": "George Wellborn will be joining us soon. Welcome him!",
+      "memberNews": "Everyone is invited over to Kyle's house on Thursday for breakfast.",
+      "userId": 5,
+      "date": "2021-04-02T23:57:07.374Z",
+      "id": 16
     }
   ],
   "groups": [
